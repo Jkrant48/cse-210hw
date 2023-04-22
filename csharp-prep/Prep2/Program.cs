@@ -39,6 +39,6 @@ class Program
         {
             Console.WriteLine("Don't give up, Keep studying hard.");
         }
-        //Console.WriteLine(percentage);
+        
     }
 }
